@@ -6,7 +6,7 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 - Github username: alanvaldez02
 - Email: alanvaldez02@berkeley.edu
 - Lab section: 110
-- GSI: Leia Organa
+- GSI: Shuni Li
 
 -----
 
