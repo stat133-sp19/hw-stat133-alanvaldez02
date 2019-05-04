@@ -1,0 +1,19 @@
+---
+title: "Getting started with binomial"
+author: "Alan Valdez"
+date: "`r Sys.Date`()"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to binomial}
+  %\VignetteEngine{kintr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(collapse = T, comment = "#>")
+library(binomial)
+```
+
+# Binomial
+
+The package '"binomial"' helps to calculate the binomial distribution of given number of successes, trials, and probability. As well, as a summary of some measurements.
